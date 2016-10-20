@@ -1,0 +1,2 @@
+# thumbnails
+Simple python thumbnailer
